@@ -7,5 +7,5 @@ PerimCirculo <- function(R){
 }
 
 PerimRectangulo <- function(base, altura) {
-  return(2 * (base + altura))
+  return(2*base + 2*altura)
 }
