@@ -15,3 +15,10 @@ r <- 0.5
 
 Area <- pi*r^2
 ```
+# Área Cuadrado
+
+```{r}
+L <- 3
+
+Area <- L^2
+```
