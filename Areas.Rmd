@@ -38,3 +38,12 @@ H <- 3
 
 Area <- (B*H)
 ```
+# Área Trapecio
+
+```{r}
+b <- 3
+B <- 4
+H <- 2
+
+Area <- (B+b)*H/2
+```
