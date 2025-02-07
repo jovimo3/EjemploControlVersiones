@@ -1,0 +1,17 @@
+---
+title: "Areas"
+author: "JV MORALES"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Área Circulo
+
+```{r}
+r <- 0.5
+
+Area <- pi*r^2
+```
