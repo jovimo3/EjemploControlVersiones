@@ -22,3 +22,19 @@ L <- 3
 
 Area <- L^2
 ```
+# Área Triangulo
+
+```{r}
+B <- 3
+H <- 3
+
+Area <- (B*H)/2
+```
+# Área Rectangulo
+
+```{r}
+B <- 3
+H <- 3
+
+Area <- (B*H)
+```
